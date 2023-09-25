@@ -6,8 +6,6 @@ Customer Acquisition Cost (CAC) is a critical metric for businesses that want to
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Analysis Steps](#analysis-steps)
-- [Results](#results)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,7 +35,6 @@ The dataset used for this analysis includes the following columns:
 4. **Identifying Cost-Effective Channels**: We identified the most cost-effective marketing channel based on the lowest CAC.
 
 5. **Insights and Recommendations**: We provided insights and recommendations for optimizing marketing strategies.
-
 
 ## Usage
 
